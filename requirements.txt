@@ -1,0 +1,4 @@
+websocket-client
+requests
+pandas
+# Add other dependencies here
